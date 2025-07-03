@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TreatmentPlan
+comment1.params=procedures\ notes
+comment1.target=TreatmentPlan(java.util.List,\ java.lang.String)
+comment2.params=
+comment2.target=TreatmentPlan()
+comment3.params=
+comment3.target=java.util.List\ getProcedures()
+comment4.params=
+comment4.target=java.lang.String\ getNotes()
+comment5.params=procedures
+comment5.target=void\ setProcedures(java.util.List)
+comment6.params=notes
+comment6.target=void\ setNotes(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

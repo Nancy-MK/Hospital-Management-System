@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Equipment
+comment1.params=equipmentName\ equipmentType\ isOperational
+comment1.target=Equipment(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getEquipmentName()
+comment3.params=
+comment3.target=java.lang.String\ getEquipmentType()
+comment4.params=
+comment4.target=boolean\ isOperational()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

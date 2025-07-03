@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AdmissionRecord
+comment1.params=patient\ doctor\ ward
+comment1.target=AdmissionRecord(Patient,\ Doctor,\ Ward)
+comment2.params=
+comment2.target=Patient\ getPatient()
+comment3.params=
+comment3.target=Ward\ getWard()
+comment4.params=
+comment4.target=Doctor\ getDoctor()
+comment5.params=
+comment5.target=java.util.Date\ getAdmissionDate()
+comment6.params=
+comment6.target=java.lang.String\ getNotes()
+comment7.params=notes
+comment7.target=void\ setNotes(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=InsuranceDetails
+comment1.params=provider\ policyNumber\ coverageType\ expiryDate
+comment1.target=InsuranceDetails(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=InsuranceDetails()
+comment3.params=
+comment3.target=java.lang.String\ getProvider()
+comment4.params=
+comment4.target=java.lang.String\ getPolicyNumber()
+comment5.params=
+comment5.target=java.lang.String\ getCoverageType()
+comment6.params=
+comment6.target=java.lang.String\ getExpiryDate()
+comment7.params=totalCost
+comment7.target=double\ calculateCoverageAmount(double)
+comment8.params=coverageAmount
+comment8.target=void\ setCoverageAmount(double)
+comment9.params=totalCost
+comment9.target=double\ getCoverageAmount(double)
+numComments=11

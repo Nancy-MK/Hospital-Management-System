@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Doctor
+comment1.params=id\ name\ specialization\ schedule
+comment1.target=Doctor(java.lang.String,\ java.lang.String,\ Specialization,\ Schedule)
+comment2.params=
+comment2.target=Doctor()
+comment3.params=ward
+comment3.target=void\ assignToWard(Ward)
+comment4.params=
+comment4.target=java.util.List\ getAssignedWards()
+comment5.params=
+comment5.target=java.lang.String\ getId()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=Specialization\ getSpecialization()
+comment8.params=
+comment8.target=Schedule\ getSchedule()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

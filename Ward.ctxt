@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ward
+comment1.params=wardNumber\ capacity\ beds\ equipment
+comment1.target=Ward(java.lang.String,\ int,\ java.util.List,\ java.util.List)
+comment10.params=
+comment10.target=int\ getBedsOccupied()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Ward()
+comment3.params=
+comment3.target=java.lang.String\ getWardNumber()
+comment4.params=
+comment4.target=int\ getCapacity()
+comment5.params=
+comment5.target=java.util.List\ getBeds()
+comment6.params=
+comment6.target=java.util.List\ getEquipment()
+comment7.params=
+comment7.target=boolean\ hasAvailableBed()
+comment8.params=
+comment8.target=boolean\ occupyFirstAvailableBed()
+comment9.params=
+comment9.target=boolean\ freeAnOccupiedBed()
+numComments=12

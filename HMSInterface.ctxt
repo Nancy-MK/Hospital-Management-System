@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HMSInterface
+comment1.params=patients\ doctors\ wards
+comment1.target=void\ InitializeHospitalSystem(int,\ int,\ int)
+comment2.params=patient\ doctor\ ward
+comment2.target=AdmissionRecord\ Admit(Patient,\ Doctor,\ Ward)
+comment3.params=admissionRecord\ treatmentPlan\ medications
+comment3.target=TreatedRecord\ Treat(AdmissionRecord,\ TreatmentPlan,\ java.util.List)
+comment4.params=treatedRecord\ dischargeSummary\ billingDetails
+comment4.target=DischargedRecord\ Discharge(TreatedRecord,\ DischargeSummary,\ BillingDetails)
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BillingDetails
+comment1.params=totalCost\ insuranceDetails
+comment1.target=BillingDetails(double,\ InsuranceDetails)
+comment2.params=
+comment2.target=double\ getTotalCost()
+comment3.params=
+comment3.target=double\ getInsuranceCoverage()
+comment4.params=
+comment4.target=double\ getRemainingAmount()
+comment5.params=
+comment5.target=java.lang.String\ getCoverageType()
+comment6.params=
+comment6.target=InsuranceDetails\ getInsuranceDetails()
+numComments=7

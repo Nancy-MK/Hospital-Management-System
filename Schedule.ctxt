@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Schedule
+comment1.params=availableDays\ availableTimes
+comment1.target=Schedule(java.util.List,\ java.util.List)
+comment2.params=
+comment2.target=java.util.List\ getAvailableDays()
+comment3.params=
+comment3.target=java.util.List\ getAvailableTimes()
+comment4.params=availableDays
+comment4.target=void\ setAvailableDays(java.util.List)
+comment5.params=availableTimes
+comment5.target=void\ setAvailableTimes(java.util.List)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

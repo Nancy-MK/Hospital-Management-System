@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bed
+comment1.params=bedNumber\ available
+comment1.target=Bed(int,\ boolean)
+comment2.params=patient
+comment2.target=void\ setPatient(Patient)
+comment3.params=
+comment3.target=int\ getBedNumber()
+comment4.params=
+comment4.target=boolean\ isAvailable()
+comment5.params=available
+comment5.target=void\ setAvailable(boolean)
+comment6.params=
+comment6.target=Patient\ getPatient()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

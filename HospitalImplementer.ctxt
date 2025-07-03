@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HospitalImplementer
+comment1.params=totalPatients\ totalDoctors\ totalWards
+comment1.target=void\ InitializeHospitalSystem(int,\ int,\ int)
+comment2.params=patient\ doctor\ ward
+comment2.target=AdmissionRecord\ Admit(Patient,\ Doctor,\ Ward)
+comment3.params=ward
+comment3.target=Bed\ findAvailableBed(Ward)
+comment4.params=ward
+comment4.target=void\ printAvailableBeds(Ward)
+comment5.params=admissionRecord\ treatmentPlan\ medications
+comment5.target=TreatedRecord\ Treat(AdmissionRecord,\ TreatmentPlan,\ java.util.List)
+comment6.params=anyTreatedRecord\ dischargeSummary\ billingDetails
+comment6.target=DischargedRecord\ Discharge(TreatedRecord,\ DischargeSummary,\ BillingDetails)
+comment7.params=
+comment7.target=java.util.List\ getDoctors()
+comment8.params=
+comment8.target=java.util.List\ getAllPatients()
+comment9.params=
+comment9.target=java.util.List\ getWards()
+numComments=10

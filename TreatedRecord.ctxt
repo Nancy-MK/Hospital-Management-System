@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TreatedRecord
+comment1.params=patient\ doctor\ ward\ plan\ meds
+comment1.target=TreatedRecord(Patient,\ Doctor,\ Ward,\ TreatmentPlan,\ java.util.List)
+comment10.params=
+comment10.target=java.util.List\ getCompletedProcedures()
+comment11.params=
+comment11.target=java.lang.String\ getPatientResponse()
+comment2.params=
+comment2.target=double\ calculateOutcomeScore()
+comment3.params=
+comment3.target=double\ calculateMedicationScore()
+comment4.params=
+comment4.target=double\ calculateTreatmentPlanScore()
+comment5.params=procedure
+comment5.target=void\ addCompletedProcedure(java.lang.String)
+comment6.params=response
+comment6.target=void\ setPatientResponse(java.lang.String)
+comment7.params=
+comment7.target=double\ getOutcomeScore()
+comment8.params=
+comment8.target=TreatmentPlan\ getTreatmentPlan()
+comment9.params=
+comment9.target=java.util.List\ getMedications()
+numComments=12

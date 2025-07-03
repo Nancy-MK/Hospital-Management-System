@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DischargeSummary
+comment1.params=finalDiagnosis\ followUpInstructions
+comment1.target=DischargeSummary(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFinalDiagnosis()
+comment3.params=
+comment3.target=java.lang.String\ getFollowUpInstructions()
+comment4.params=
+comment4.target=java.time.LocalDate\ getDischargeDate()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

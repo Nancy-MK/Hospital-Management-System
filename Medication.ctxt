@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Medication
+comment1.params=name\ dosage\ frequency\ durationInDays
+comment1.target=Medication(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getDosage()
+comment4.params=
+comment4.target=int\ getDurationInDays()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=dosage
+comment6.target=void\ setDosage(java.lang.String)
+comment7.params=durationInDays
+comment7.target=void\ setDurationInDays(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
